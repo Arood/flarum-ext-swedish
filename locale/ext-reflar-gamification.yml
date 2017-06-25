@@ -2,10 +2,28 @@ core:
   forum:
     index_sort:
       #hot_button: Trending
-      hot_button: Trendande
+      hot_button: Trendar
 
 reflar-gamification:
   forum:
+    #vote_title: Show Who Voted
+    vote_title: Visa vem som röstat
+    nav:
+      #name: Rankings
+      name: Topplista
+    ranking:
+      #rank: Place
+      rank: Plats
+      #name: User
+      name: Användare
+      #amount: Points
+      amount: Poäng
+    notification:
+      upvote: Someone upvoted your post
+      downvote: Someone downvoted your post
+      grid:
+        upvoted: Someone upvoted one of my posts
+        downvoted: Someone downvoted one of my posts
     user:
       #points: "Points: {points}"
       points: "Poäng: {points}"
