@@ -1,0 +1,21 @@
+davis-socialprofile:
+  forum:
+    edit:
+      #edit: "Edit"
+      edit: "Ändra"
+      #add: "Add"
+      add: "Lägg till"
+      #headtitle: "Edit Buttons"
+      headtitle: "Ändra knappar"
+      #title: "Title"
+      title: "Namn"
+      #url: "Url"
+      url: "Url"
+      #submit: "Save"
+      submit: "Spara"
+      #delete: "Delete"
+      delete: "Ta bort"
+      #deletetitle: "Delete Button"
+      deletetitle: "Ta bort knapp"
+  admin:
+    test: "Test"
