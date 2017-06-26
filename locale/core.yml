@@ -377,11 +377,11 @@ core:
       #email_sent_message: We've sent you an email containing a link to reset your password. Check your spam folder if you don't receive it within the next minute or two.
       email_sent_message: Vi har skickat en återställningslänk till dig via e-post. Kolla din skräppost om du inte mottagit meddelandet inom några minuter.
       #not_found_message: There is no user registered with that email address.
-      not_found_message: Det finns ingen användare registrearad med den e-postadressen.
+      not_found_message: Det finns ingen användare registrerad med den e-postadressen.
       #submit_button: Recover Password
       submit_button: Återställ lösenord
       #text: Enter your email address and we will send you a link to reset your password.
-      text: Ange din e-postadress för att få ett maiol med en länk som kan återställa ditt lösenord.
+      text: Ange din e-postadress för att få ett mail med en länk som kan återställa ditt lösenord.
       #title: Forgot Password#
       title: Glömt lösenord
 
